@@ -28,7 +28,6 @@ JAVA
 
 JAVA SWING
 
-Steps to use :-
 
 
 
@@ -54,6 +53,7 @@ Technologies used :-
 JAVA
 
 JAVA SWING
+
 
 
 
