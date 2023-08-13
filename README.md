@@ -30,13 +30,7 @@ JAVA SWING
 
 Steps to use :-
 
-Download or clone the repository
 
-git clone : Click Here
-
-Go to the directory
-
-Run the project in any Java IDE.
 
 ## Task 2
 
@@ -61,15 +55,7 @@ JAVA
 
 JAVA SWING
 
-Steps to use :-
 
-Download or clone the repository
-
-git clone : Click Here
-
-Go to the directory
-
-Run the project in any Java IDE.
 
 ## Task 3
 
@@ -92,6 +78,7 @@ Technologies used :-
 JAVA
 
 JAVA SWING
+
 
 Steps to use :-
 
